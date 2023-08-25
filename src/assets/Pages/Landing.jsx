@@ -13,7 +13,7 @@ function Landing() {
         <div>
           {" "}
           <p className="md:text-4xl md:m-4 sm:text-2xl mt-2 mb-2 text-xl">
-            Fast,Flexible
+            Fast & Flexible
           </p>
         </div>
         <p className="md:text-lg sm:text-lg text-sm font-bold text-zinc-700">
@@ -22,7 +22,7 @@ function Landing() {
         </p>
         <button
           type="button"
-          className=" text-black font-semibold  bg-main-color border-2 border-zinc-700 rounded-[2rem] w-[140px] mx-auto py-2 mt-4  md:py-4 md:w-[200px] md:text-xl sm:py-3 sm:w-[150px]"
+          className=" text-black hover:text-white font-semibold  bg-main-color border-2 border-zinc-700 rounded-[2rem] w-[140px] mx-auto py-2 mt-4  md:py-4 md:w-[200px] md:text-xl sm:py-3 sm:w-[150px]"
         >
           {" "}
           Get Started

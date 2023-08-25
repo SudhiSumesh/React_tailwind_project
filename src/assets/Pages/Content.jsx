@@ -33,7 +33,7 @@ function Content() {
           </p>
           <button
             type="button"
-            className=" text-main-color  font-semibold  bg-black  rounded-[.4rem] w-[120px] mx-auto py-2 m-4  md:py-4 md:w-[150px] md:h-[55px] md:text-lg md:mx-0 sm:py-3 sm:w-[150px]"
+            className=" text-main-color  hover:text-white  font-semibold  bg-black  rounded-[.4rem] w-[120px] mx-auto py-2 m-4  md:py-4 md:w-[150px] md:h-[55px] md:text-lg md:mx-0 sm:py-3 sm:w-[150px]"
           >
             {" "}
             Get Started
