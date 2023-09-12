@@ -4,7 +4,7 @@ function Cards() {
   return (
     <>
       <div className="w-full py-[10rem] px-4 bg-white">
-        <div className="max-w-[1240px] mx-auto   grid md:grid-cols-3 gap-8 ">
+        <div className="max-w-[1240px] mx-auto   grid place-items-center md:grid-cols-3 gap-8 ">
           {/* card-1 */}
           <div className="w-[300px] b shadow-xl bg-white border border-[#cfc7c7] rounded-lg flex flex-col items-center justify-center p-4 hover:scale-105 duration-300">
             <div className="h-[50px] w-[50px]  bg-white border border-[#766b6b] m-4 flex justify-center items-center ">
