@@ -13,10 +13,10 @@ function Navbar() {
       <h1 className="text-main-color font-bold w-full text-3xl ">KNOCK.</h1>
       <ul className="  hidden md:flex">
         <li className="p-4">Home</li>
-        <li className="p-4">Compony</li>
+        <li className="p-4">Company</li>
         <li className="p-4">Resources</li>
         <li className="p-4">About</li>
-        <li className="p-4">Conatct</li>
+        <li className="p-4">Contact</li>
       </ul>
       {/* condition for nav icon- mobile device  */}
       <div onClick={handleNav} className=" md:hidden">
@@ -39,10 +39,10 @@ function Navbar() {
         </h1>
         <ul className="p-4 uppercase ">
           <li className="p-4 border-b border-gray-600">Home</li>
-          <li className="p-4 border-b border-gray-600">Compony</li>
+          <li className="p-4 border-b border-gray-600">Company</li>
           <li className="p-4 border-b border-gray-600">Resources</li>
           <li className="p-4 border-b border-gray-600">About</li>
-          <li className="p-4">Conatct</li>
+          <li className="p-4">Contact</li>
         </ul>
       </div>
     </div>
