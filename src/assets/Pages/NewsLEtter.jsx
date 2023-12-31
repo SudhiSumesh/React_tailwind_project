@@ -6,7 +6,7 @@ function NewsLEtter() {
       <div className="max-w-[1240px] mx-auto grid lg:grid-cols-3">
         <div className="lg:col-span-2">
           <h1 className="md:text-4xl sm:text-3xl text-2xl font-bold py-2 m-2">
-            Want daily upadate to optimize your flow?
+            Want daily update to optimize your flow?
           </h1>
           <p className="md:text-lg sm:text-lg text-sm font-bold text-zinc-700 m-2">
             Sign up to our news letter stay up to date
