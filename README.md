@@ -2,7 +2,7 @@
 
 This is a user-friendly React website designed using Tailwind CSS for styling. The main focus of the project is to develop a UI with Tailwind CSS in React created using Vite. The website features a newsletter, cards showing product details, footer, and navbar.
 
-Live Demo : https://sumeshsudhi.github.io/React-Taliwind-Project/
+
 ## Installation
 
 ## How to Install NPM Packages and Run Vite-React Project
